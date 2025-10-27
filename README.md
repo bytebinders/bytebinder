@@ -1,7 +1,7 @@
 <!-- 🌐 BYTEBINDER README 🌐 -->
 
 <div align="center">
-  <img src="https://github.com/bytebinders/bytebinders/blob/main/banner.png" alt="ByteBinder Banner" width="100%"/>
+  <img src="https://github.com/bytebinders/bytebinder/blob/main/banner.png" alt="ByteBinder Banner" width="100%"/>
   
   <h1>⚡ BYTEBINDER ⚡</h1>
   <h3>We Design. We Code. We Build the Future.</h3>
