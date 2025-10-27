@@ -10,14 +10,14 @@
     <em>Web 2, Web 3, App, Software — if it’s digital, we make it alive.</em>
   </p>
 
-  <a href="https://bytebinder.tech">
+  <a href="https://bytebinders.tech">
     <img src="https://img.shields.io/badge/🌍_Visit-Website-blue?style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/company/bytebinder">
+  <a href="https://www.linkedin.com/in/byte-binder-977bab38b/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-ByteBinder-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/bytebinder0">
-    <img src="https://img.shields.io/badge/🐦_Twitter-@bytebinder0-1DA1F2?style=for-the-badge&logo=twitter"/>
+  <a href="https://twitter.com/bytebinders">
+    <img src="https://img.shields.io/badge/🐦_Twitter-@bytebinders-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
 </div>
 
