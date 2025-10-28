@@ -74,7 +74,7 @@ We believe in innovation that *actually works* — elegant design, efficient cod
 ### 🤝 Let's Build Together
 
 📩 **Hire us / Collaborate:** [bytebinders@gmail.com](mailto:bytebinders@gmail.com)
-👥 **Follow us:** [LinkedIn](https://www.linkedin.com/in/byte-binder-977bab38b/) | [X (Twitter)](https://twitter.com/bytebinder0)
+👥 **Follow us:** [LinkedIn](https://www.linkedin.com/in/byte-binder-977bab38b/) | [X (Twitter)](https://twitter.com/bytebinders)
 💬 **Join our tech circle:** *The IT Guys* WhatsApp Community 🚀
 
 ---
@@ -84,6 +84,3 @@ We believe in innovation that *actually works* — elegant design, efficient cod
 </div>
 
 ---
-
-Wanna make it even **flashier** (like animated logos, badges showing tech stack, or visitor counters)?
-I can drop a version 2 with motion badges and glow text 🔥 — should I do that?
